@@ -1,0 +1,2 @@
+This ipynb file contains the code to train a Conditional Generative Adverserial Network (CGANs) to convert the given input images, which are the SAR (Synthetic Aperture Radar) images taken by the satellites to Optical images, which are easily human interpretable. 
+This is the link to the dataset used for the training: https://www.kaggle.com/datasets/requiemonk/sentinel12-image-pairs-segregated-by-terrain
